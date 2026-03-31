@@ -1,7 +1,7 @@
 # 🚀 Tasks API — Laravel REST API
 
 > Projet de démonstration : Comprendre et Créer une API REST avec Laravel  
-> Stack : Laravel 11 · Eloquent · API Resources · Mysql · Postman
+> Stack : Laravel  · Eloquent · API Resources · Mysql · Postman
 
 ---
 
