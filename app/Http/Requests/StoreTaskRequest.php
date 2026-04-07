@@ -8,6 +8,8 @@ class StoreTaskRequest extends FormRequest
 {
     /**
      * Autoriser toutes les requêtes (auth à gérer plus tard avec Sanctum).
+     * Sanctume is a stateless authentication middleware for Laravel used to protect your API routes.
+     * EX: 
      */
     public function authorize(): bool
     {
